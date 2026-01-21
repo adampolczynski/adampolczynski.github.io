@@ -1,4 +1,4 @@
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pca-app-pub-5571559171594857~4354956554, DIRECT, f08c47fec0942fa0
 
 adagio.io, 1522, RESELLER
 adagio.io, 1575, RESELLER
